@@ -1,0 +1,38 @@
+.topnav{
+	background-color:  #4dc3ff;
+}
+
+.top{
+	color: white;
+}
+
+.intro-header {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/DSC_0140.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.banner {
+    padding: 100px 0;
+    color: #f8f8f8;
+    background: url(../images/DSC_0147.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.nav{
+	color: white;
+}
+
+.center{
+	height: 300px;
+	width: 400px;
+	margin-left: 50px;
+}
+
+.description{
+	width: 700px;
+	margin-left: 50px;
+}
